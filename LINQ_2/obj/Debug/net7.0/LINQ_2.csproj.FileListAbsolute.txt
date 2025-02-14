@@ -1,0 +1,29 @@
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.AssemblyInfo.cs
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.exe
+C:\Users\HP\Desktop\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.deps.json
+C:\Users\HP\Desktop\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.runtimeconfig.json
+C:\Users\HP\Desktop\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.dll
+C:\Users\HP\Desktop\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.dll
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\refint\LINQ_2.dll
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.genruntimeconfig.cache
+C:\Users\HP\Desktop\LINQ\LINQ_2\obj\Debug\net7.0\ref\LINQ_2.dll
+D:\ALL VS files\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.exe
+D:\ALL VS files\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.deps.json
+D:\ALL VS files\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.runtimeconfig.json
+D:\ALL VS files\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.dll
+D:\ALL VS files\LINQ\LINQ_2\bin\Debug\net7.0\LINQ_2.pdb
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.AssemblyInfoInputs.cache
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.AssemblyInfo.cs
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.csproj.CoreCompileInputs.cache
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.dll
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\refint\LINQ_2.dll
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.pdb
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\LINQ_2.genruntimeconfig.cache
+D:\ALL VS files\LINQ\LINQ_2\obj\Debug\net7.0\ref\LINQ_2.dll

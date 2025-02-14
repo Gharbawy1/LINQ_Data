@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LINQ part 3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LINQ part 3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LINQ part 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ part 3/1.0.0": {
+      "type": "project",
+      "path": "../LINQ part 3/LINQ part 3.csproj",
+      "msbuildProject": "../LINQ part 3/LINQ part 3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LINQ part 3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\LinqWithAtefLabib\\LINQ P4\\LINQ P4.csproj",
+      "projectName": "LINQ P4",
+      "projectPath": "C:\\Users\\HP\\Desktop\\LinqWithAtefLabib\\LINQ P4\\LINQ P4.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\LinqWithAtefLabib\\LINQ P4\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\HP\\Desktop\\LinqWithAtefLabib\\LINQ part 3\\LINQ part 3.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\LinqWithAtefLabib\\LINQ part 3\\LINQ part 3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

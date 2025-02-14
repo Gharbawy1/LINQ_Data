@@ -1,0 +1,21 @@
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ P4.exe
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ P4.deps.json
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ P4.runtimeconfig.json
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ P4.dll
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ P4.pdb
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.AssemblyInfo.cs
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.dll
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\refint\LINQ P4.dll
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.pdb
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.genruntimeconfig.cache
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\ref\LINQ P4.dll
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ part 3.deps.json
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ part 3.runtimeconfig.json
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ part 3.exe
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ part 3.dll
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\bin\Debug\net7.0\LINQ part 3.pdb
+C:\Users\HP\Desktop\LinqWithAtefLabib\LINQ P4\obj\Debug\net7.0\LINQ P4.csproj.CopyComplete

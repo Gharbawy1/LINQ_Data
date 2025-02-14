@@ -1,0 +1,23 @@
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\bin\Debug\net7.0\LINQ_01 class lib.deps.json
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\bin\Debug\net7.0\LINQ_01 class lib.dll
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\bin\Debug\net7.0\LINQ_01 class lib.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.AssemblyInfo.cs
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.dll
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\refint\LINQ_01 class lib.dll
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_01 class lib\obj\Debug\net7.0\ref\LINQ_01 class lib.dll
+D:\ALL VS files\LINQ\LINQ_01 class lib\bin\Debug\net7.0\LINQ_01 class lib.deps.json
+D:\ALL VS files\LINQ\LINQ_01 class lib\bin\Debug\net7.0\LINQ_01 class lib.dll
+D:\ALL VS files\LINQ\LINQ_01 class lib\bin\Debug\net7.0\LINQ_01 class lib.pdb
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.AssemblyInfoInputs.cache
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.AssemblyInfo.cs
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.csproj.CoreCompileInputs.cache
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.dll
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\refint\LINQ_01 class lib.dll
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\LINQ_01 class lib.pdb
+D:\ALL VS files\LINQ\LINQ_01 class lib\obj\Debug\net7.0\ref\LINQ_01 class lib.dll

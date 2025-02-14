@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.AssemblyInfo.cs
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.exe
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.deps.json
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.runtimeconfig.json
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.dll
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.dll
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\refint\LINQ_1.dll
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.genruntimeconfig.cache
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\ref\LINQ_1.dll
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_01 class lib.dll
+C:\Users\HP\Desktop\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_01 class lib.pdb
+C:\Users\HP\Desktop\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.csproj.CopyComplete
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.exe
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.deps.json
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.runtimeconfig.json
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.dll
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_1.pdb
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_01 class lib.dll
+D:\ALL VS files\LINQ\LINQ_1\bin\Debug\net7.0\LINQ_01 class lib.pdb
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.csproj.AssemblyReference.cache
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.AssemblyInfoInputs.cache
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.AssemblyInfo.cs
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.csproj.CoreCompileInputs.cache
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.csproj.Up2Date
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.dll
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\refint\LINQ_1.dll
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.pdb
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\LINQ_1.genruntimeconfig.cache
+D:\ALL VS files\LINQ\LINQ_1\obj\Debug\net7.0\ref\LINQ_1.dll

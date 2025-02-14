@@ -1,0 +1,42 @@
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.exe
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.deps.json
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.runtimeconfig.json
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.dll
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.pdb
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.AssemblyInfo.cs
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.dll
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\refint\Aggregrate LINQ_3.dll
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.pdb
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.genruntimeconfig.cache
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\ref\Aggregrate LINQ_3.dll
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.deps.json
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.runtimeconfig.json
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.exe
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.dll
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.pdb
+C:\Users\HP\Desktop\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.csproj.CopyComplete
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.deps.json
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.runtimeconfig.json
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.exe
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.exe
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.deps.json
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.runtimeconfig.json
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.dll
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\Aggregrate LINQ_3.pdb
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.dll
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\bin\Debug\net7.0\LINQ_2.pdb
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.csproj.AssemblyReference.cache
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.AssemblyInfoInputs.cache
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.AssemblyInfo.cs
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.csproj.CoreCompileInputs.cache
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregra.6204FF3C.Up2Date
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.dll
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\refint\Aggregrate LINQ_3.dll
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.pdb
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\Aggregrate LINQ_3.genruntimeconfig.cache
+D:\ALL VS files\LINQ\Aggregrate LINQ_3\obj\Debug\net7.0\ref\Aggregrate LINQ_3.dll
